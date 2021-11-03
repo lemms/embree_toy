@@ -1,0 +1,7 @@
+[requires]
+eigen/3.4.0
+embree3/3.13.1
+libigl/2.3.0
+
+[generators]
+cmake
