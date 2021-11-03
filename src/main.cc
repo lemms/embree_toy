@@ -1,3 +1,8 @@
+// main.cc
+// Copyright Laurence Emms 2021
+
+// Executable for toy embree tracer
+
 #include <iostream>
 
 #include "embree_toy.h"
